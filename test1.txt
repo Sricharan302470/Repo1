@@ -1,0 +1,10 @@
+ Volume in drive H is New Volume
+ Volume Serial Number is 1A52-FFA1
+
+ Directory of H:\Mydevopsprjct
+
+04/10/2020  12:51 PM    <DIR>          .
+04/10/2020  12:51 PM    <DIR>          ..
+04/10/2020  12:51 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  315,186,958,336 bytes free
